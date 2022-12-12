@@ -8,7 +8,7 @@ use Illuminate\Database\Migrations\Migration;
 class CreateTasksTable extends Migration
 {
     /**
-     * Run the migrations.
+     * Run the migrations to code.
      *
      * @return void
      */
