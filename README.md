@@ -1,4 +1,4 @@
-# testrepo
+# testrepository
 Testrepo for learning github
 <?php
  
